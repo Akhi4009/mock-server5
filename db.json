@@ -5,23 +5,19 @@
         "username":"akhiles",
         "email": "gtatterton0@ehow.com",
         "password":"akhilesh"
-      },{
-        "id": 1,
-        "username":"akhilesh",
-        "email": "gtatterton0@ehow.com",
-        "password":"akhilesh123"
       }
     ],
-   "movies": [
+   "books": [
     {
       "id" : 1,
-      "poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
-      "title" : "Doctor Strange in the Multiverse of Madness",
-      "director" : "Sam Raimi",
-      "year" : 2022,
-      "genre" : "Action",
-      "IMDB_Rating" : 6.8,
-      "ticket" : 200
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+    "book_name": "Harry Potter and the Philosopher's Stone",
+    "author": "J. K. Rowling",
+		"genre": "fiction",
+		"edition": "2021",
+		"publisher": "Bloomsbury",
+		"cost": 1299,
+		"borrowed": false
     }
     ]
   
